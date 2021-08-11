@@ -1,0 +1,11 @@
+﻿  pch.cpp
+  BOTO.cpp
+D:\IT\PROJECTS\C#\BOTO\BOTO\BOTO.cpp(108,19): warning C4018:  '<=': signed/unsigned mismatch
+D:\IT\PROJECTS\C#\BOTO\BOTO\BOTO.cpp(134,10): warning C4018:  '<': signed/unsigned mismatch
+D:\IT\PROJECTS\C#\BOTO\BOTO\BOTO.cpp(183,21): warning C4018:  '<': signed/unsigned mismatch
+  Generating code
+  Compiler version has changed, fall back to full compilation.
+D:\IT\PROJECTS\C#\BOTO\BOTO\BOTO.cpp(371): warning C4715: 'AI': not all control paths return a value
+  All 275 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  BOTO.vcxproj -> D:\IT\PROJECTS\C#\BOTO\Release\BOTO.exe
